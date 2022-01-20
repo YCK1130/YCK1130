@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ken. I'm a freshman at NTUEE.
 - 👀 I’m interested in programming, physics, astronomy.
-- 🌱 I’m currently learning HTML.
+
 
 
 <!---
