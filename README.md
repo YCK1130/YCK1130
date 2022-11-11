@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ken. I'm a freshman at NTUEE.
+- 👋 Hi, I’m Ken. I currently majored in NTUEE.
 - 👀 I’m interested in programming, physics, astronomy.
 
 
