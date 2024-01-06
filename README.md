@@ -1,7 +1,7 @@
 # Intro
 <table style="border:none">
 <tr>
-  <td style="vertical-align: top">
+  <td style="vertical-align: center">
     <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" alt="hello!" ></img>
   </td>
   <td>
