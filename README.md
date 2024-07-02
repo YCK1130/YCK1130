@@ -7,13 +7,11 @@
   <td>
 
 
-👋 Hi, I’m Ken, Junior student Major in Eletrical Engineering at National Taiwan University
+👋 Hi, I’m Ken, a senior student Major in Electrical Engineering at National Taiwan University
 
-🙎🏻‍♂️ Leader of <a src="https://github.com/NTUEEInfoDep">NTUEE Info Dep</a>. (2023~2024)
+👨🏻‍💻 Interested in a wide range of fields from Web programming, Reinforcement learning, Robotics, Crypto, and Network Communication, to Embedding Systems
 
-👨🏻‍💻 Interested in a wide range of fields from Web programming, Reinforcement Learing, Robotics, Crypto, Network Communication, to Embedding System and making stuff
-
-🐶 Loving dogs, 🏊🏻 Swimming, 🥐 cuisine, 🌳 Nature
+🐶 Loving dogs, 🏊🏻 Swimming, 🥐 cuisine
   </td>
 </tr>
 </table>
