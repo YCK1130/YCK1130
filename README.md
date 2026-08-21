@@ -7,7 +7,7 @@
   <td>
 
 
-👋 Hi, I’m Ken, a senior student majoring in Electrical Engineering at National Taiwan University
+👋 Hi, I’m Ken, a first-year master student majoring in Robotics at the University of Michigan
 
 👨🏻‍💻 Interested in a wide range of fields from Reinforcement learning, Robotics, Crypto, and Network Communication, to Embedding Systems
 
